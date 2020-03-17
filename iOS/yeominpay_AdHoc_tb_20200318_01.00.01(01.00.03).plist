@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>kr.co.kt.yeominpay</string>
 				<key>bundle-version</key>
-				<string>01.00.00</string>
+				<string>01.00.01</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>localpay_inhouse</string>
+				<string>localpay_adhoc_tb</string>
 			</dict>
 		</dict>
 	</array>
