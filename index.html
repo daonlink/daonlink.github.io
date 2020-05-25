@@ -10,15 +10,62 @@
 <body>
     <div id="css_tabs">
 
-        <!-- 라디오 버튼 -->
+    <!-- 라디오 버튼 -->
+    <input id="tab1" type="radio" name="tab" />
+    <input id="tab2" type="radio" name="tab" checked="checked"/>
 
-        <input id="tab2" type="radio" name="tab" checked="checked" />
+    <!-- 라벨 : 화면에 표시되는 탭 제목 -->
+    <label for="tab1">AOS</label>
+    <label for="tab2">iOS</label>
 
-        <!-- 라벨 : 화면에 표시되는 탭 제목 -->
+    <!-- AOS 영역 -->
+    <div class="tab1_content">
+        <br> 착한페이(TB) <br>
+        <table border="1">
+            <tr>
+                <td>OS</td>
+                <td>Build Time</td>
+                <td>Version</td>
+                <td>Download</td>
+            </tr>
 
-        <label for="tab2">iOS</label>
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20200525 15:30 &nbsp;</td>
+                <td>&nbsp; 01.00.22 &nbsp;</td>
+                <td><a
+                        href="/Android/apk/dev_unsigned_goodpay_01.00.22_google_20200525.apk" download
+                        >&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </table>
         <br>
+        
+        <br> 세종여민전(TB) <br>
+        <table border="1">
+            <tr>
+                <td>OS</td>
+                <td>Build Time</td>
+                <td>Version</td>
+                <td>Download</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20200525 15:30 &nbsp;</td>
+                <td>&nbsp; 01.00.01 &nbsp;</td>
+                <td><a
+                        href="/Android/apk/dev_unsigned_yeominpay_01.00.01_google_20200525.apk" download
+                        >&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </table>
         <br>
+     </div>
+
+          
+          
+        <!-- IOS영역 -->
+
+    <div class="tab2_content">
 
         <br> 착한페이 iOS (TB) <br>
         <table border="1">
