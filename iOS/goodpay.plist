@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>kr.co.kt.goodpay</string>
 				<key>bundle-version</key>
-				<string>01.00.03</string>
+				<string>01.00.00</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>localpay_inhouse</string>
+				<string>localpay</string>
 			</dict>
 		</dict>
 	</array>
