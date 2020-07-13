@@ -3,33 +3,37 @@
 <meta name="viewport"
       content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
 
-<head>
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+
+
     <link rel="stylesheet" href="css_tabs.css">
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js">
 	
 </script>
 	<script>
-$(function(){
-      $("#aos").load("/Users/jeong-yong-woong/bin/aos.html"); 
-    });
+		window.onload = function(){
+      $("#aos").load("aos.html"); 
+    }
 
 	</script>
 </head>
+
 
 <body>
     <div id="css_tabs">
 
     <!-- 라디오 버튼 -->
     <input id="tab1" type="radio" name="tab" checked="checked" />
-    <input id="tab2" type="radio" name="tab" />
+    <input id="tab2" type="radio" name="tab" checked=""/>
 
     <!-- 라벨 : 화면에 표시되는 탭 제목 -->
     <label for="tab1">AOS</label>
     <label for="tab2">iOS</label>
 
     <!-- AOS 영역 -->
-    <div id="aos" class="tab1_content">
-    </div>
+    <div id= "aos" class="tab1_content"/>
+          </div>
         <!-- IOS영역 -->
 
     <div class="tab2_content">
@@ -120,4 +124,5 @@ $(function(){
 
     </div>
 </body>
+
 </html>
