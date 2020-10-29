@@ -1,5 +1,4 @@
-
-<br>착한페이(TB_andX)<br>
+<br>동백전(STG) 내부테스트<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -11,14 +10,15 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200910 23:00 &nbsp;</td>
-                <td>&nbsp; 01.00.24 &nbsp;</td>
-                <td>&nbsp; AndroidX 29</td>
-                <td><a href="/Android/apk/andX_dev_unsigned_goodpay_01.00.24(10027)_google_20200910.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td>&nbsp; 20201028 11:10 &nbsp;</td>
+                <td>&nbsp; 01.00.09 &nbsp;</td>
+                <td>&nbsp; 폰 체크 제거</td>
+                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.09_google_20201028.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
+<br><br><br>
 
-<br>착한페이(Real_andX)<br>
+<br>착한페이(STG)<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -30,14 +30,16 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200910 23:00 &nbsp;</td>
-                <td>&nbsp; 01.00.24 &nbsp;</td>
-                <td>&nbsp; AndroidX 29</td>
-                <td><a href="/Android/apk/andX_real_unsigned_goodpay_01.00.24(10027)_google_20200910.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td>&nbsp; 20201015 15:00 &nbsp;</td>
+                <td>&nbsp; 01.00.08 &nbsp;</td>
+                <td>&nbsp; 울산몰 / 내부테스트</td>
+                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.25(10029)_google_20201015.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
+<br><br><br>
 
-<br>착한페이(Prev_andX)<br>
+
+<br>동백전(TB)_2차_개발중<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -49,15 +51,71 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200910 23:00 &nbsp;</td>
-                <td>&nbsp; 01.00.22 &nbsp;</td>
-                <td>&nbsp; AndroidX 29</td>
-                <td><a href="/Android/apk/andX_prev_unsigned_goodpay_01.00.22(10025)_google_20200910.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td>&nbsp; 20201007 13:30 &nbsp;</td>
+                <td>&nbsp; 01.00.08 &nbsp;</td>
+                <td>&nbsp; AndroidX 29 / usim 체크 안함</td>
+                <td><a href="/Android/apk/andX_dev_unsigned_dongbaekpay_01.00.08(10009)_google_20201007.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
+        <br>동백전(TB)<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20200925 17:30 &nbsp;</td>
+                <td>&nbsp; 01.00.08 &nbsp;</td>
+                <td>&nbsp; AndroidX 29 / usim 체크 안함</td>
+                <td><a href="/Android/apk/andX_dev_unsigned_dongbaekpay_01.00.08(10008)_google_20200925.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 
+<br>동백전(Real)<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
 
-<br><br><br><br><br>
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20200925 17:30 &nbsp;</td>
+                <td>&nbsp; 01.00.08 &nbsp;</td>
+                <td>&nbsp; AndroidX 29 / usim 체크 안함</td>
+                <td><a href="/Android/apk/andX_real_unsigned_dongbaekpay_01.00.08(10008)_google_20200925.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+
+<br>동백전(Prev)<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20200925 17:30 &nbsp;</td>
+                <td>&nbsp; 01.00.06 &nbsp;</td>
+                <td>&nbsp; AndroidX 29 / usim 체크 안함</td>
+                <td><a href="/Android/apk/andX_prev_unsigned_dongbaekpay_01.00.06(10006)_google_20200925.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
 
 
 <br>착한페이(TB)<br>
@@ -72,10 +130,10 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200910 23:00 &nbsp;</td>
+                <td>&nbsp; 20200915 20:00 &nbsp;</td>
                 <td>&nbsp; 01.00.24 &nbsp;</td>
                 <td>&nbsp; AndroidX 29</td>
-                <td><a href="/Android/apk/dev_unsigned_goodpay_01.00.24(10027)_google_20200910.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/andX_dev_signed_goodpay_01.00.24(10027)_google_20200915.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 
@@ -91,36 +149,18 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200910 23:00 &nbsp;</td>
+                <td>&nbsp; 20200915 20:00 &nbsp;</td>
                 <td>&nbsp; 01.00.24 &nbsp;</td>
                 <td>&nbsp; AndroidX 29</td>
-                <td><a href="/Android/apk/real_unsigned_goodpay_01.00.24(10027)_google_20200910.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/andX_real_signed_goodpay_01.00.24(10027)_google_20200915.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 
-<br>착한페이(Prev)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
+<br><br><br>
 
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200910 23:00 &nbsp;</td>
-                <td>&nbsp; 01.00.22 &nbsp;</td>
-                <td>&nbsp; AndroidX 29</td>
-                <td><a href="/Android/apk/prev_unsigned_goodpay_01.00.22(10025)_google_20200910.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
+<br><br><br>
 
-
-<br><br><br><br><br>
-
-<br>여민전(TB_andX)<br>
+<br>여민전(TB)<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -135,10 +175,10 @@
                 <td>&nbsp; 20200908 11:00 &nbsp;</td>
                 <td>&nbsp; 01.00.05 &nbsp;</td>
                 <td>&nbsp; AndroidX 29</td>
-                <td><a href="/Android/apk/andX_dev_unsigned_yeominpay_01.00.05(10013)_google_20200908.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/andX_dev_signed_yeominpay_01.00.05(10013)_google_20200908.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
-<br>여민전(Real_andX)<br>
+<br>여민전(Real)<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -153,9 +193,11 @@
                 <td>&nbsp; 20200908 11:00 &nbsp;</td>
                 <td>&nbsp; 01.00.05 &nbsp;</td>
                 <td>&nbsp; AndroidX 29</td>
-                <td><a href="/Android/apk/andX_real_unsigned_yeominpay_01.00.05(10013)_google_20200908.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/andX_real_signed_yeominpay_01.00.05(10013)_google_20200908.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
+<br><br><br>
+
 
    <br>동백전(TB)<br>
         <table border="1">
@@ -172,7 +214,7 @@
                 <td>&nbsp; 20200901 18:00 &nbsp;</td>
                 <td>&nbsp; 01.00.07 &nbsp;</td>
                 <td>&nbsp; &nbsp;</td>
-                <td><a href="/Android/apk/dev_unsigned_dongbaekpay_01.00.07(10008)_google_20200901.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/dev_signed_dongbaekpay_01.00.07(10008)_google_20200902.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>
         
@@ -191,227 +233,7 @@
                 <td>&nbsp; 20200901 18:00 &nbsp;</td>
                 <td>&nbsp; 01.00.07 &nbsp;</td>
                 <td>&nbsp; &nbsp;</td>
-                <td><a href="/Android/apk/real_unsigned_dongbaekpay_01.00.07(10008)_google_20200901.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/real_signed_dongbaekpay_01.00.07(10008)_google_20200902.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>
         
-    <br>동백전(prev)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200901 18:00 &nbsp;</td>
-                <td>&nbsp; 01.00.07 &nbsp;</td>
-                <td>&nbsp; &nbsp;</td>
-                <td><a href="/Android/apk/prev_unsigned_dongbaekpay_01.00.05(10005)_google_20200901.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>
-
-        <br>여민전(Staging)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200731 18:10 &nbsp;</td>
-                <td>&nbsp; 01.00.04 &nbsp;</td>
-                <td>&nbsp;  &nbsp;</td>
-                <td><a href="/Android/apk/stg_unsigned_yeominpay_01.00.04_google_202007231.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-                    </tbody></table>
-
-
-        <br>여민전 (TB)_내부테스트<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200728 18:10 &nbsp;</td>
-                <td>&nbsp; 01.00.04 &nbsp;</td>
-                <td>&nbsp;  &nbsp;</td>
-                <td><a href="/Android/apk/dev_unsigned_yeominpay_01.00.04_google_20200728.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-                    </tbody></table>
-
-
-        <br>new_착한페이(TB)_전자상거래<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200721 17:48 &nbsp;</td>
-                <td>&nbsp; 01.00.23 &nbsp;</td>
-                <td>&nbsp; 전자상거래 테스트/직원모드 개선 &nbsp;</td>
-                <td><a href="/Android/apk/e_dev_unsigned_goodpay_01.00.23_google_20200721.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>
-
-
-
-        <br>동백전(TB)_전자상거래<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200721 12:37 &nbsp;</td>
-                <td>&nbsp; 01.00.07 &nbsp;</td>
-                <td>&nbsp; 전자상거래 테스트 &nbsp;</td>
-                <td><a href="/Android/apk/e_dev_dongbaekpay_01.00.07_google_20200721.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>
-
-
-
-        <br>여민전(TB)_전자상거래<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200721 12:37 &nbsp;</td>
-                <td>&nbsp; 01.00.03 &nbsp;</td>
-                <td>&nbsp; 전자상거래 테스트 &nbsp;</td>
-                <td><a href="/Android/apk/e_dev_unsigned_yeominpay_01.00.03_google_20200721.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>
-<br><br><br>
-
-        <br>착한페이(TB)_약식용<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200709 18:10 &nbsp;</td>
-                <td>&nbsp; 01.00.23 &nbsp;</td>
-                <td>&nbsp; 내부테스트 &nbsp;</td>
-                <td><a href="/Android/apk/dev_unsigned_goodpay_01.00.23_google_20200716.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>
-
-
-      <br>착한페이(TB_New IP)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200710 11:00 &nbsp;</td>
-                <td>&nbsp; 01.00.23 &nbsp;</td>
-                <td>&nbsp; ip 변경 버전 &nbsp;</td>
-                <td><a href="/Android/apk/new_ip_dev_unsigned_goodpay_01.00.23_google_20200710.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>
-
-
-        <br>세종여민전(TB)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200622 18:00 &nbsp;</td>
-                <td>&nbsp; 01.00.03 &nbsp;</td>
-                <td>&nbsp; &nbsp;</td>
-                <td><a href="/Android/apk/dev_unsigned_yeominpay_01.00.03_google_20200622.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>
-        
-        <br>세종여민전(STAGING)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200622 14:00 &nbsp;</td>
-                <td>&nbsp; 01.00.03 &nbsp;</td>
-                <td>&nbsp; &nbsp;</td>
-                <td><a href="/Android/apk/stg_unsigned_yeominpay_01.00.03_google_20200622.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>
-
-        <br>동백전(TB)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20200611 11:58 &nbsp;</td>
-                <td>&nbsp; 01.00.07 &nbsp;</td>
-                <td>&nbsp; &nbsp;</td>
-                <td><a href="/Android/apk/dev_unsigned_dongbaekpay_01.00.07_google_20200611.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>
-        <br>
- 
-        <br>
