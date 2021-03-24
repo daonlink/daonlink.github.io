@@ -1,4 +1,63 @@
 
+<br>세종여민전 스테이징<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20210324 12:30 &nbsp;</td>
+                <td>&nbsp; 01.00.07 &nbsp;</td>
+                <td>&nbsp; 내부테스트용</td>
+                <td><a href="/Android/apk/stg_unsigned_yeominpay_01.00.07(10015)_google_20210324.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
+<br>세종여민전 개발<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20210324 12:30 &nbsp;</td>
+                <td>&nbsp; 01.00.07 &nbsp;</td>
+                <td>&nbsp; 내부테스트용</td>
+                <td><a href="/Android/apk/dev_unsigned_yeominpay_01.00.07(10015)_google_20210324.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
+<br>착한페이 개발(상생내 주변 API 수정 확인용)<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20210323 17:30 &nbsp;</td>
+                <td>&nbsp; 01.00.28 &nbsp;</td>
+                <td>&nbsp; 내부테스트용</td>
+                <td><a href="/Android/apk/SaleRateTEST_dev_unsigned_goodpay_01.00.28(10034)_google_20210323.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
 
 <br>착한페이 개발<br>
         <table border="1">
@@ -12,10 +71,10 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210322 15:25 &nbsp;</td>
-                <td>&nbsp; 01.00.27 &nbsp;</td>
+                <td>&nbsp; 20210322 19:15 &nbsp;</td>
+                <td>&nbsp; 01.00.28 &nbsp;</td>
                 <td>&nbsp; 내부테스트용</td>
-                <td><a href="/Android/apk/dev_goodpay_01.00.27_20210322.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/dev_unsigned_goodpay_01.00.28(10034)_google_20210322.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
@@ -33,10 +92,10 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210322 11:00 &nbsp;</td>
+                <td>&nbsp; 20210322 15:15 &nbsp;</td>
                 <td>&nbsp; 01.00.27 &nbsp;</td>
                 <td>&nbsp; 내부테스트용</td>
-                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.27(10033)_google_20210322.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/stg_goodpay_01.00.27_20210322.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
@@ -60,6 +119,28 @@
             </tr>
         </tbody></table>   
 <br><br><br>
+
+
+<br>배달특급 개발앱<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20210323 17:30 &nbsp;</td>
+                <td>&nbsp;  &nbsp;</td>
+                <td>&nbsp; 내부테스트용</td>
+                <td><a href="/Android/apk/app-universal-release.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
 
 <br>유비페이 개발앱<br>
         <table border="1">
