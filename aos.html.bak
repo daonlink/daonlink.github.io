@@ -1,3 +1,65 @@
+
+<br>세종여민전 스테이징<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20210513 10:20 &nbsp;</td>
+                <td>&nbsp; 01.00.10 &nbsp;</td>
+                <td>&nbsp; 내부테스트용</td>
+                <td><a href="/Android/apk/stg_unsigned_yeominpay_01.00.10(10019)_google_20210513.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
+<br>세종여민전 개발<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20210513 11:00 &nbsp;</td>
+                <td>&nbsp; 01.00.10 &nbsp;</td>
+                <td>&nbsp; 내부테스트용</td>
+                <td><a href="/Android/apk/dev_unsigned_yeominpay_01.00.10(10018)_google_20210513.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
+
+<br>착한페이 개발<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20210512 17:30 &nbsp;</td>
+                <td>&nbsp; 01.00.28 &nbsp;</td>
+                <td>&nbsp; 내부테스트용</td>
+                <td><a href="/Android/apk/dev_unsigned_goodpay_01.00.28(10034)_google_20210512.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
 <br>착한페이 상용(4/29 서버 테스트용)<br>
         <table border="1">
             <tbody><tr>
@@ -18,8 +80,7 @@
         </tbody></table>   
 <br><br><br>
 
-
-<br>착한페이 스테이징(4/29 서버 테스트용)<br>
+<br>착한페이 스테이징<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -31,34 +92,13 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210429 15:45 &nbsp;</td>
+                <td>&nbsp; 20210506 18:00 &nbsp;</td>
                 <td>&nbsp; 01.00.28 &nbsp;</td>
                 <td>&nbsp; 내부테스트용</td>
-                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.28(10034)__google_20210429.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.28(10034)_google_20210506.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
-
-<br>착한페이 스테이징(4/29 익산 테스트용)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210429 17:30 &nbsp;</td>
-                <td>&nbsp; 01.00.28 &nbsp;</td>
-                <td>&nbsp; 내부테스트용</td>
-                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.28(10034)_google_20210429_iksan.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
 
 <br>세종여민전 스테이징<br>
         <table border="1">
@@ -72,10 +112,31 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210421 16:45 &nbsp;</td>
-                <td>&nbsp; 01.00.07 &nbsp;</td>
+                <td>&nbsp; 20210504 16:15 &nbsp;</td>
+                <td>&nbsp; 01.00.09 &nbsp;</td>
                 <td>&nbsp; 내부테스트용</td>
-                <td><a href="/Android/apk/stg_unsigned_yeominpay_01.00.07_google_20210420.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/stg_unsigned_yeominpay_01.00.09(10017)_google_20210504.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
+
+<br>세종여민전 개발<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20210504 16:30 &nbsp;</td>
+                <td>&nbsp; 01.00.09 &nbsp;</td>
+                <td>&nbsp; 내부테스트용</td>
+                <td><a href="/Android/apk/dev_unsigned_yeominpay_01.00.09(10017)_google_20210504.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
