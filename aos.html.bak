@@ -10,10 +10,10 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210618 11:40 &nbsp;</td>
+                <td>&nbsp; 20210618 18:00 &nbsp;</td>
                 <td>&nbsp; 01.00.28 &nbsp;</td>
                 <td>&nbsp; 현재까지 개발된 기능 merge 바이너리(dev)</td>
-                <td><a href="/Android/apk/dev_unsigned_goodpay_01.00.28_google_20210618.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/dev_unsigned_goodpay_01.00.28_google_20210618_2.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>
 <br><br><br>
@@ -30,30 +30,10 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210603 10:45 &nbsp;</td>
+                <td>&nbsp; 20210622 11:00 &nbsp;</td>
                 <td>&nbsp; 01.00.28 &nbsp;</td>
                 <td>&nbsp; 현재까지 개발된 기능 merge 바이너리(stg)</td>
-                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.28_google_20210603.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-<br>착한페이 스테이징<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210603 17:40 &nbsp;</td>
-                <td>&nbsp; 01.00.28 &nbsp;</td>
-                <td>&nbsp; 현재까지 개발된 기능 merge 바이너리(stg)</td>
-                <td><a href="/Android/apk/real_unsigned_goodpay_01.00.28_google_20210603.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.28(10034)_google_20210621.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
