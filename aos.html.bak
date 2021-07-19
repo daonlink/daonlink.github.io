@@ -10,10 +10,10 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210628 15:00 &nbsp;</td>
+                <td>&nbsp; 20210715 17:35 &nbsp;</td>
                 <td>&nbsp; 01.00.29 &nbsp;</td>
                 <td>&nbsp; 현재까지 개발된 기능 merge 바이너리(dev)</td>
-                <td><a href="/Android/apk/dev_unsigned_goodpay_01.00.29_google_20210628.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/dev_unsigned_goodpay_01.00.29(10036)_google_20210715.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>
 <br><br><br>
@@ -30,10 +30,30 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210629 10:40 &nbsp;</td>
+                <td>&nbsp; 20210630 15:42 &nbsp;</td>
                 <td>&nbsp; 01.00.29 &nbsp;</td>
-                <td>&nbsp; 현재까지 개발된 기능 merge 바이너리(stg)</td>
-                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.29(10036)_google_20210629.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td>&nbsp; 검증용(stg)</td>
+                <td><a href="/Android/apk/stg_unsigned_goodpay_01.00.29(10036)_google_20210630.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
+<br>착한페이 상용<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20210630 15:42 &nbsp;</td>
+                <td>&nbsp; 01.00.29 &nbsp;</td>
+                <td>&nbsp; 검증용(real)</td>
+                <td><a href="/Android/apk/real_unsigned_goodpay_01.00.29(10036)_google_20210630.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
