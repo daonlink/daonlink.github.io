@@ -1,4 +1,4 @@
-<br>착한페이_익산_STG<br>
+<br>착한페이_dev2<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -10,14 +10,15 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20230512 16:50<&nbsp;</td>
+                <td>&nbsp; 20230607 13:50<&nbsp;</td>
                 <td>&nbsp; 01.00.38(10052)&nbsp;</td>
                 <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.38(10052)_20230512_2.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/goodpay_aos_dev2_unsigned_v01.00.38(10052)_20230607.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
-<br>착한페이_지난배포버전_STG<br>
+
+<br>착한페이_STG_targetSDK33<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -29,13 +30,14 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20230516 12:50<&nbsp;</td>
-                <td>&nbsp; 01.00.37(10051)&nbsp;</td>
+                <td>&nbsp; 202306113 14:10<&nbsp;</td>
+                <td>&nbsp; 01.00.38(10052)&nbsp;</td>
                 <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.37(10051)_20230516.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.38(targetsdk33)_20230613.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
+
 <br>착한페이_익산_상용<br>
         <table border="1">
             <tbody><tr>
@@ -52,6 +54,26 @@
                 <td>&nbsp; 01.00.38(10052)&nbsp;</td>
                 <td>&nbsp; </td>
                 <td><a href="/Android/apk/goodpay_aos_real_unsigned_v01.00.38(10052)_20230516.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
+<br>착한페이_지난배포버전_STG<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20230516 12:50<&nbsp;</td>
+                <td>&nbsp; 01.00.37(10051)&nbsp;</td>
+                <td>&nbsp; </td>
+                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.37(10051)_20230516.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
