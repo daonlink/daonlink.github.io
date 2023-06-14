@@ -38,6 +38,26 @@
         </tbody></table>   
 <br><br><br>
 
+<br>착한페이_STG_targetSDK31<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 202306114 15:10<&nbsp;</td>
+                <td>&nbsp; 01.00.38(10052)&nbsp;</td>
+                <td>&nbsp; </td>
+                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.38(targetSDK31)_20230614.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
 <br>착한페이_익산_상용<br>
         <table border="1">
             <tbody><tr>
@@ -58,25 +78,6 @@
         </tbody></table>   
 <br><br><br>
 
-<br>착한페이_지난배포버전_STG<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20230516 12:50<&nbsp;</td>
-                <td>&nbsp; 01.00.37(10051)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.37(10051)_20230516.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
 
 <br>여민전(스테이징)<br>
         <table border="1">
