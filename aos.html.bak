@@ -1,5 +1,6 @@
 
-<br>여민전_상용_이벤트팝업수정<br>
+
+<br>착한페이_상용_20231114<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -11,34 +12,14 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20231030 11:35<&nbsp;</td>
-                <td>&nbsp; 01.00.16(10028)&nbsp;</td>
+                <td>&nbsp; 20231114 15:50<&nbsp;</td>
+                <td>&nbsp; 01.00.40&nbsp;</td>
                 <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_real_unsigned_v01.00.16_231030.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/goodpay_aos_real_unsigned_v01.00.40_20231114.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
-
-<br>착한페이_스테이징_내부테스트_20231109<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20231109 15:00<&nbsp;</td>
-                <td>&nbsp; 01.00.39&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.39_20231109.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-<br>착한페이_스테이징_01.00.40_20231114<br>
+<br>착한페이_스테이징_20231114<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -58,6 +39,25 @@
         </tbody></table>   
 <br><br><br>
 
+<br>여민전_상용_이벤트팝업수정<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20231030 11:35<&nbsp;</td>
+                <td>&nbsp; 01.00.16(10028)&nbsp;</td>
+                <td>&nbsp; </td>
+                <td><a href="/Android/apk/yeominpay_aos_real_unsigned_v01.00.16_231030.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
 
 <br>착한페이_상용_01.00.30<br>
         <table border="1">
