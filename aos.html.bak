@@ -1,4 +1,25 @@
 
+
+<br>여민전_스테이징_24년 1월 배포버전<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20231121 10:20<&nbsp;</td>
+                <td>&nbsp; 01.00.40(10057)&nbsp;</td>
+                <td>&nbsp; </td>
+                <td><a href="/Android/apk/yeominpay_aos_stg_unsigned_v01.00.18(10030)_20231228.apk" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
 <br>착한페이_스테이징_dualSim수정_20231121<br>
         <table border="1">
             <tbody><tr>
@@ -19,7 +40,7 @@
         </tbody></table>   
 <br><br><br>
 
-<br>여민전_상용_read_phone_state_masSdk_remove<br>
+<br>고양탄소지움_스테이징_20231122<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -31,34 +52,14 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20231121 13:20<&nbsp;</td>
-                <td>&nbsp; 01.00.16(10028)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/phone_state_maxsdk_remove_yeominpay_aos_real_unsigned_20231121.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td>&nbsp; 20231122 10:35<&nbsp;</td>
+                <td>&nbsp; 01.00.02&nbsp;</td>
+                <td>&nbsp; 이용중지테스트</td>
+                <td><a href="/Android/apk/goyangpay_aos_stg_unsigned_v01.00.02_20231122.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
 
-
-<br>착한페이_상용_20231114<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20231114 15:50<&nbsp;</td>
-                <td>&nbsp; 01.00.40&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_real_unsigned_v01.00.40_20231114.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
 
 <br>착한페이_dev2_20231116<br>
         <table border="1">
@@ -80,104 +81,7 @@
         </tbody></table>   
 <br><br><br>
 
-<br>착한페이_상용_01.00.30<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
 
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20231031 14:40<&nbsp;</td>
-                <td>&nbsp; 01.00.30&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_real_unsigned_v01.00.30_20231031.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-<br>착한페이_스테이징_01.00.30<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20231031 14:40<&nbsp;</td>
-                <td>&nbsp; 01.00.30&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.30_20231031.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-<br>여민전_stg_20231016_10월배포버전<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20231016 11:10<&nbsp;</td>
-                <td>&nbsp; 01.00.16(10028)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_stg_unsigned_v01.00.16_20231016.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-<br>여민전_dev2_20231026<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20231026 11:30<&nbsp;</td>
-                <td>&nbsp; 01.00.16(10028)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_dev2_unsigned_v01.00.16_20231026.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-
-<br>고양탄소지움(스테이징)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20230711 13:50<&nbsp;</td>
-                <td>&nbsp; 01.00.02&nbsp;</td>
-                <td>&nbsp; firebase애널리틱스 제거 버전</td>
-                <td><a href="/Android/apk/stg_unsigned_goyangpay_01.00.02(10005)_google_20230711.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
 
 <br>휘파람(공주페이) 개발앱<br>
         <table border="1">
