@@ -10,15 +10,15 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241125 11:00<&nbsp;</td>
+                <td>&nbsp; 20250310 15:00<&nbsp;</td>
                 <td>&nbsp; 01.00.21(10033)&nbsp;</td>
                 <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_stg_unsigned_v01.00.21(10033)_20241125.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/yeominpay_aos_stg_unsigned_v01.00.21(10033)_20241218.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
 
-<br>착한페이_익산_서비스종료테스트<br>
+<br>여민전_상용_오픈뱅킹<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -30,120 +30,13 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250210 14:40<&nbsp;</td>
-                <td>&nbsp; 01.00.42(10059)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_signed_v01.00.42(10059)_20240530.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-
-<br>여민전_링크_테스트<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241125 11:00<&nbsp;</td>
+                <td>&nbsp; 20250310 15:00<&nbsp;</td>
                 <td>&nbsp; 01.00.21(10033)&nbsp;</td>
                 <td>&nbsp; </td>
-                <td><a href="intent://popupwebview#Intent;scheme=KTolleh00192;package=com.kt.android.yeominpay;end" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/yeominpay_aos_real_unsigned_v01.00.21(10033)_20241218.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
-
-<br>착한페이_링크_테스트<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241125 11:00<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="intent://popupwebview#Intent;scheme=KTolleh00189;package=com.kt.android.goodpay;end" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-
-<br>착한페이_링크_테스트(action,category 추가)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241125 11:00<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="intent://popupwebview
-#Intent;scheme=KTolleh00189;action=android.intent.action.VIEW;
-category=android.intent.category.BROWSABLE;
-package=com.kt.android.goodpay;end" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-<br>여민전_스테이징_회원탈퇴api_패스워드추가<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241205 16:50<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_stg_unsigned_v01.00.21(10033)_20241205.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-<br>여민전_스테이징_핀번호_타임스탬프추가<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241206 10:30<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_stg_unsigned_v01.00.21(10033)_20241206.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-
 
 <br>여민전_dev2_오픈뱅킹<br>
         <table border="1">
@@ -166,67 +59,6 @@ package=com.kt.android.goodpay;end" download="">&nbsp; Download &nbsp;</a></td>
 <br><br><br>
 
 
-<br>여민전_스테이징_오픈뱅킹_약관동의체크제거버전<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241127 03:30<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_stg_unsigned_v01.00.21(10033)_20241127.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-
-<br>여민전_상용_오픈뱅킹_약관동의체크제거버전<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241127 03:25<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_real_unsigned_v01.00.21(10033)_20241127.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-<br>여민전_상용_오픈뱅킹<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241125 10:55<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_real_unsigned_v01.00.21(10033)_20241125.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
 <br>여민전_스테이징_이전버전<br>
         <table border="1">
             <tbody><tr>
@@ -243,27 +75,6 @@ package=com.kt.android.goodpay;end" download="">&nbsp; Download &nbsp;</a></td>
                 <td>&nbsp; 01.00.20(10032)&nbsp;</td>
                 <td>&nbsp; </td>
                 <td><a href="/Android/apk/yeominpay_aos_stg_signed_v01.00.20(10032)_20240725.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-
-<br>착한페이_스테이징_오픈뱅킹(가맹점환전, 권종형충전)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241114 17:30<&nbsp;</td>
-                <td>&nbsp; 01.00.42(10059)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.42(10059)_20241114.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
@@ -288,6 +99,29 @@ package=com.kt.android.goodpay;end" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
+
+
+<br>착한페이_링크_테스트<br>
+        <table border="1">
+            <tbody><tr>
+                <td>&nbsp; OS &nbsp;</td>
+                <td>&nbsp; Build Time &nbsp;</td>
+                <td>&nbsp; Version &nbsp;</td>
+                <td>&nbsp; 변경사항 &nbsp;</td>
+                <td>&nbsp; Download &nbsp;</td>
+            </tr>
+
+            <tr>
+                <td>&nbsp; AOS &nbsp;</td>
+                <td>&nbsp; 20241125 11:00<&nbsp;</td>
+                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
+                <td>&nbsp; </td>
+                <td><a href="intent://popupwebview#Intent;scheme=KTolleh00189;package=com.kt.android.goodpay;end" download="">&nbsp; Download &nbsp;</a></td>
+            </tr>
+        </tbody></table>   
+<br><br><br>
+
+
 
 
 <br>휘파람(공주페이) 개발앱<br>
