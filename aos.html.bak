@@ -81,25 +81,6 @@
         </tbody></table>   
 <br><br><br>
 
-<br>여민전_dev2_오픈뱅킹<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241202 16:05<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_dev2_unsigned_v01.00.21(10033)_20241202.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
 
 
 <br>착한페이_오픈뱅킹_스테이징<br>
@@ -118,69 +99,6 @@
                 <td>&nbsp; 01.00.42(10059)&nbsp;</td>
                 <td>&nbsp; </td>
                 <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.42_(10059)_20250331.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-<br>착한페이_스테이징_공주이용중지테스트<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250319 09:50<&nbsp;</td>
-                <td>&nbsp; 01.00.42(10059)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.42(10059)_20240529.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-
-
-<br>여민전_스테이징_이전버전<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20241121 14:30<&nbsp;</td>
-                <td>&nbsp; 01.00.20(10032)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_stg_signed_v01.00.20(10032)_20240725.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-
-<br>착한페이_스테이징_기존버전(targetsdk34)<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20240627 16:30<&nbsp;</td>
-                <td>&nbsp; 01.00.42(10059)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.42(34.0.0)_240627_2.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
@@ -207,27 +125,6 @@
 <br><br><br>
 
 
-
-
-<br>휘파람(공주페이) 개발앱<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20210819 10:30 &nbsp;</td>
-                <td>&nbsp; 1.0.9 &nbsp;</td>
-                <td>&nbsp; 내부테스트용</td>
-                <td><a href="/Android/apk/debug-kr.co.wheeparam.mall.user-1.0.9.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
 
 
 
