@@ -104,68 +104,6 @@
 <br><br><br>
 
 
-<br>여민전_스테이징_오픈뱅킹<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250401 10:00<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_stg_signed_v01.00.21(10033)_20241127.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-<br>여민전_상용_오픈뱅킹<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250401 15:00<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_real_signed_v01.00.21(10033)_20241127.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-
-
-<br>착한페이_오픈뱅킹_스테이징<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250331 15:30<&nbsp;</td>
-                <td>&nbsp; 01.00.42(10059)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.42_(10059)_20250331.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
 
 <br>착한페이_링크_테스트<br>
         <table border="1">
