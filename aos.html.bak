@@ -22,7 +22,7 @@
 <br><br><br>
 
 
-<br>여민전_상용_6월말배포버전<br>
+<br>여민전_상용_7월말배포버전<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -34,36 +34,16 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250618 10:20<&nbsp;</td>
-                <td>&nbsp; 01.00.22(10034)&nbsp;</td>
+                <td>&nbsp; 20250721 10:20<&nbsp;</td>
+                <td>&nbsp; 01.00.23(10035)&nbsp;</td>
                 <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_real_unsigned_v01.00.22(10034)_20250618_2.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-<br>여민전_스테이징_오픈뱅킹제거버전<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250601 17:40<&nbsp;</td>
-                <td>&nbsp; 01.00.21(10033)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_stg_unsigned_v01.00.22_20250601.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/yeominpay_aos_real_unsigned_v01.00.23(10035)_20250721.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
 
 
-<br>착한페이_상용_오픈뱅킹제거버전<br>
+<br>착한페이_스테이징<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -75,30 +55,10 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250407 17:00<&nbsp;</td>
+                <td>&nbsp; 20250903 15:30<&nbsp;</td>
                 <td>&nbsp; 01.00.43(10060)&nbsp;</td>
                 <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_real_unsigned_v01.00.43(10060)_20250408_2.apk" download="">&nbsp; Download &nbsp;</a></td>
-            </tr>
-        </tbody></table>   
-<br><br><br>
-
-<br>착한페이_스테이징_오픈뱅킹제거버전<br>
-        <table border="1">
-            <tbody><tr>
-                <td>&nbsp; OS &nbsp;</td>
-                <td>&nbsp; Build Time &nbsp;</td>
-                <td>&nbsp; Version &nbsp;</td>
-                <td>&nbsp; 변경사항 &nbsp;</td>
-                <td>&nbsp; Download &nbsp;</td>
-            </tr>
-
-            <tr>
-                <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250415 11:00<&nbsp;</td>
-                <td>&nbsp; 01.00.43(10060)&nbsp;</td>
-                <td>&nbsp; </td>
-                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.43(10060)_20250415.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/goodpay_aos_stg_unsigned_v01.00.43(10060)_20250903.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
