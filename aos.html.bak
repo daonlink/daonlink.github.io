@@ -1,6 +1,6 @@
 
 
-<br>여민전_상용_네트워크에러로그<br>
+<br>여민전_상용_디버깅<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -12,14 +12,14 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250930 15:15<&nbsp;</td>
+                <td>&nbsp; 20250930 15:20<&nbsp;</td>
                 <td>&nbsp; 01.00.23(10035)&nbsp;</td>
                 <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_real_unsigned_v01.00.23(10035)_20250930.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/yeominpay_aos_real_log_unsigned_v01.00.23(10035)_20250930.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
-<br>여민전_개발_네트워크에러로그<br>
+<br>여민전_개발_디버깅<br>
         <table border="1">
             <tbody><tr>
                 <td>&nbsp; OS &nbsp;</td>
@@ -31,10 +31,10 @@
 
             <tr>
                 <td>&nbsp; AOS &nbsp;</td>
-                <td>&nbsp; 20250930 15:10<&nbsp;</td>
+                <td>&nbsp; 20250930 15:20<&nbsp;</td>
                 <td>&nbsp; 01.00.23(10035)&nbsp;</td>
                 <td>&nbsp; </td>
-                <td><a href="/Android/apk/yeominpay_aos_dev_unsigned_v01.00.23(10035)_20250930.apk" download="">&nbsp; Download &nbsp;</a></td>
+                <td><a href="/Android/apk/yeominpay_aos_dev_log_unsigned_v01.00.23(10035)_20250930.apk" download="">&nbsp; Download &nbsp;</a></td>
             </tr>
         </tbody></table>   
 <br><br><br>
